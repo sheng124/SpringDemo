@@ -54,4 +54,9 @@ class DemoApplicationTests {
 		System.out.println("解析后的内容："+deJWT);
 	}
 
+	@Test
+	void testGit(){
+		System.out.println("OK");
+	}
+
 }
